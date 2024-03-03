@@ -1,0 +1,23 @@
+<type>(optional scope): <description> (50 char)
+
+[Optional body text over multiple lines] (75 char ea)
+[Keep each line subject seperate where possible]
+
+<word-token>: <footer description>]
+
+#primary types: fix (patch), feat (minor), BREAKING CHANGE (major)
+#BREAKING CHANGE in footer and-or noted with (!) after type
+#other types: build, chore, ci, docs, style, refactor, perf, test, revert
+#footer should include signature info and reference lines
+#
+#7 rules for a good commit message
+#
+# 1. Separate subject from body with a blank line
+# 2. Limit the subject line to 50 characters
+# 3. Capitalize the subject line
+# 4. Do not end the subject line with a period
+# 5. Use the imperative mood in the subject line
+# 6. Wrap the body at 72 characters
+# 7. Use the body to explain what and why vs. how
+#
+#https://www.conventionalcommits.org/en/v1.0.0/
